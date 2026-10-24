@@ -1,0 +1,93 @@
+{
+  "wards": [
+    {
+      "id": "WARD-DEMO-01",
+      "name": "Central Market Ward",
+      "zone": "Central",
+      "areas": ["Central Market", "Central market", "central market", "Market Area", "City Center"]
+    },
+    {
+      "id": "WARD-DEMO-02",
+      "name": "Riverfront Ward",
+      "zone": "East",
+      "areas": ["Riverfront Extension", "Riverfront", "River Front", "River Bank"]
+    },
+    {
+      "id": "WARD-DEMO-03",
+      "name": "Green Park Ward",
+      "zone": "North",
+      "areas": ["Green Park", "Greenpark", "green park", "Green Park Colony"]
+    },
+    {
+      "id": "WARD-DEMO-04",
+      "name": "Lakeview Ward",
+      "zone": "West",
+      "areas": ["Lakeview Road", "Lakeview", "Lake View", "Lake View Road"]
+    },
+    {
+      "id": "WARD-DEMO-05",
+      "name": "Sunrise Colony Ward",
+      "zone": "South",
+      "areas": ["Sunrise Colony", "Sunrise", "sunrise colony", "Sunrise Nagar"]
+    },
+    {
+      "id": "WARD-DEMO-06",
+      "name": "Station Road Ward",
+      "zone": "Central",
+      "areas": ["Station Road", "station road", "Railway Station Road", "Bus Stand Road"]
+    },
+    {
+      "id": "WARD-DEMO-07",
+      "name": "Navrangpura Ward",
+      "zone": "West",
+      "areas": ["Navrangpura", "navrangpura", "Stadium Area", "CG Road"]
+    },
+    {
+      "id": "WARD-DEMO-08",
+      "name": "Maninagar Ward",
+      "zone": "South",
+      "areas": ["Maninagar", "maninagar", "Kankaria", "Jawahar Chowk"]
+    }
+  ],
+  "departments": {
+    "pothole": {
+      "id": "roads",
+      "name": "Roads / Public Works",
+      "shortName": "Roads & Buildings",
+      "contact": "roads@demo-amc.gov.in (Demo)",
+      "reason": "Road surface damage falls under Roads & Public Works department responsibility."
+    },
+    "garbage": {
+      "id": "sanitation",
+      "name": "Sanitation",
+      "shortName": "Solid Waste Management",
+      "contact": "sanitation@demo-amc.gov.in (Demo)",
+      "reason": "Garbage collection and waste management is handled by the Sanitation department."
+    },
+    "broken_streetlight": {
+      "id": "electrical",
+      "name": "Electrical Maintenance",
+      "shortName": "Light Department",
+      "contact": "electrical@demo-amc.gov.in (Demo)",
+      "reason": "Streetlight and electrical infrastructure falls under Electrical Maintenance."
+    },
+    "waterlogging": {
+      "id": "drainage",
+      "name": "Drainage",
+      "shortName": "Storm Water Drainage",
+      "contact": "drainage@demo-amc.gov.in (Demo)",
+      "reason": "Waterlogging and stormwater issues are managed by the Drainage department."
+    },
+    "other": {
+      "id": "review",
+      "name": "Manual Review",
+      "shortName": "General Administration",
+      "contact": "admin@demo-amc.gov.in (Demo)",
+      "reason": "Unclassified issues require manual review by administration."
+    }
+  },
+  "_meta": {
+    "note": "This is a fictional demo municipal directory. Not affiliated with any real government.",
+    "createdAt": "2026-10-24T00:00:00+05:30"
+  }
+}
