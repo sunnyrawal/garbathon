@@ -115,6 +115,31 @@
       ],
       "isDemo": true,
       "isSample": false
+    },
+    {
+      "id": "c4508656-d07f-4c58-878f-1667cdfe65d7",
+      "ticketId": "CS-DEMO-MVMGEJZM7CE711",
+      "issueType": "pothole",
+      "description": "A large pothole approximately 30cm in diameter is visible on the road surface. The road shows significant cracking around the edges.",
+      "severity": "high",
+      "confidence": 0.91,
+      "recommendedAction": "Immediate road repair and resurfacing required. Area should be cordoned off.",
+      "area": "Sunrise Colony",
+      "wardId": "WARD-DEMO-05",
+      "wardName": "Sunrise Colony Ward",
+      "departmentId": "roads",
+      "departmentName": "Roads / Public Works",
+      "status": "Submitted (Demo)",
+      "createdAt": "2026-10-24T13:47:51.343Z",
+      "updatedAt": "2026-10-24T13:47:51.343Z",
+      "statusHistory": [
+        {
+          "status": "Submitted (Demo)",
+          "timestamp": "2026-10-24T13:47:51.343Z"
+        }
+      ],
+      "isDemo": true,
+      "isSample": false
     }
   ]
 }
